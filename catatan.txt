@@ -1,0 +1,10 @@
+yang didownload
+py -m pip install torch torchvision torchaudio 
+py -m pip install easyocr  
+py -m pip install PyMuPDF
+
+tidak jadi (krn eror):
+ocrmypdf 
+pytesseract
+
+pip freeze > requirements.txt 
