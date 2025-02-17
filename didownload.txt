@@ -1,0 +1,3 @@
+py -m pip install torch torchvision torchaudio 
+py -m pip install easyocr  
+py -m pip install PyMuPDF
